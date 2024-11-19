@@ -41,3 +41,8 @@ public class S3Service {
         }
     }
 }
+
+aws_access_key_id = AKIA2UC3BSXMKBNSEH6T
+aws_secret_access_key = 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
+output = json
+region = us-east-2
